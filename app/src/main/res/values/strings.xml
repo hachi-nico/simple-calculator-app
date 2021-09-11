@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalulator</string>
+    <string name="calcResult">0</string>
+    <string name="calcOperator">ll</string>
+    <string name="calcResultLabel">Hasil:</string>
+    <string name="calcBtn">Hitung</string>
+    <string name="calcOperandLabel">Input Angka</string>
+    <string name="firstHint">Input Operand 1</string>
+    <string name="secondHint">Input Operand 2</string>
+    <string-array name="operationChoice">
+        <item>Penjumlahan</item>
+        <item>Pengurangan</item>
+        <item>Pembagian</item>
+        <item>Perkalian</item>
+    </string-array>
+</resources>
