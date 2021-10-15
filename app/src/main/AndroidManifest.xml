@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kalulator">
         <activity
+            android:name=".ActivityResult"
+            android:exported="true"
+            android:label="Hasil"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
